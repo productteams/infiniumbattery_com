@@ -1,15 +1,15 @@
 [
     {
         "productCode": "MJUM8066-GYDZ",
-        "name": "Lambswool Crew Neck Jumper",
-        "vendor": "Sunspel",
+        "name": "LFP 48V 3400Wh 500Amp ",
+        "vendor": "INFINIUM",
         "price": 75,
-        "alt": "lambswool crew neck jumper",
+        "alt": "LFP 48V 3400Wh 500Amp",
         "image": "/products/pdp1.jpeg",
         "colorOptions": [
-            {"color": "#000000", "title": "Anthracite Melange"},
-            {"color": "#4D34AE", "title": "Pale Purple"},
-            {"color": "#488266", "title": "Green Moss"}
+            {"color": "#000000", "title": "1"},
+            {"color": "#4D34AE", "title": "2Pale Purple"},
+            {"color": "#488266", "title": "3Green Moss"}
         ],
         "sizeOptions": ["xs", "s", "m", "l", "xl"],
         "wishlist": true,
@@ -20,25 +20,25 @@
             {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
             {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
         ],
-        "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
+        "description": "This is a LFP Power Battery, Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 1175,
         "alt": "classic t-shirt 1",
         "image": "/products/shirt1.jpg",
         "tags": ["shirt", "men"]
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 1275,
         "alt": "classic t-shirt 2",
         "image": "/products/shirt2.jpg",
         "tags": ["shirt", "men"]
     },
     {
         "name": "Classic T-Shirt",
-        "price": 75,
+        "price": 1775,
         "alt": "classic t-shirt 3",
         "image": "/products/shirt3.jpg",
         "tags": ["shirt", "men"]
