@@ -22,7 +22,7 @@ const NotFoundPage = () => {
           <h1>404 Error</h1>
           <h2>Page not found</h2>
           <p>
-            Uh oh, looks like the page you are looking for has moved or no
+            Uh oh, looks like the page you want is out to seas and has moved or no
             longer exists.
           </p>
           <form onSubmit={(e) => handleSubmit(e)}>
