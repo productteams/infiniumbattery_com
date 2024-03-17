@@ -26,10 +26,10 @@ const SamplePage = (props) => {
                   eye-catching sustainably sourced wreaths.
                 </p>
                 <p className={styles.blogParagraph}>
-                  Delaware limited liability company (The Sydney) collects
+                  Delaware limited liability company (Infinium Battery) collects
                   personal information that you voluntarily provide when
                   applying or registering for an account with The Upside or
-                  making a purchase on The Upside website; www.theupside.com
+                  making a purchase on The Infinium Battery website; www.infiniumbattery.com
                   (the Website).
                 </p>
                 <p className={styles.blogParagraph}>
