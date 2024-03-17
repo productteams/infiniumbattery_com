@@ -46,7 +46,7 @@ const ShopPage = (props) => {
           maxWidth={'650px'}
           name={`Woman's Sweaters`}
           subtitle={
-            'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
+            'Look to our LFP Batteries to last 10 years if kept well charged.'
           }
         />
         <Container size={'large'} spacing={'min'}>
