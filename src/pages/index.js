@@ -32,15 +32,15 @@ const IndexPage = () => {
         image={'/banner1.png'}
         title={'Essentials for Electric Propulsion'}
         subtitle={'Discover the Powerful Infinium'}
-        ctaText={'shop now'}
+        ctaText={'learn more'}
         ctaAction={goToShop}
       />
 
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          This is a product develoment by{' '}
+          <span className={styles.gold}>INFINIUM.</span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
@@ -98,7 +98,7 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about INFINIUM'}
         quote={
           '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
         }
@@ -107,7 +107,7 @@ const IndexPage = () => {
       {/* Blog Grid */}
       <div className={styles.blogsContainer}>
         <Container size={'large'}>
-          <Title name={'Journal'} subtitle={'Notes on life and style'} />
+          <Title name={'Journal'} subtitle={'Notes on Batteries and Power'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
       </div>
@@ -130,7 +130,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Styled by You'}
-          subtitle={'Tag @sydney to be featured.'}
+          subtitle={'Tag @INFINIUM to be featured.'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/socialMedia1.png`} alt={'social media 1'} />
