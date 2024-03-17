@@ -44,7 +44,7 @@ const ShopPage = (props) => {
         </Container>
         <Banner
           maxWidth={'650px'}
-          name={`Woman's Sweaters`}
+          name={`INFINIUM LFP BATTERIES`}
           subtitle={
             'Look to our LFP Batteries to last 10 years if kept well charged.'
           }
