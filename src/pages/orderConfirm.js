@@ -12,8 +12,8 @@ const OrderConfirmPage = (props) => {
         <div className={styles.root}>
           <h1>Thank You!</h1>
           <p>
-            We are now processing your order. If you have any concerns feel free
-            to email us at customerservice@example.com
+            We are now processing your order. You will get an email from your local dealer. If you have any concerns feel free
+            to email us at customerservice@infiniumbattery.com
           </p>
           <div className={styles.actionContainer}>
             <ActionCard
