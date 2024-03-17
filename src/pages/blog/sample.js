@@ -13,17 +13,13 @@ const SamplePage = (props) => {
           <div className={styles.blogContainer}>
             <Blog
               category={'design'}
-              title={'Friends of Sydney: Flora Fricker'}
+              title={'Introducing : INFINIUM'}
               image={'/blogFeatured.png'}
               alt={''}
             >
               <div className={styles.content}>
                 <p className={styles.excerpt}>
-                  London-based floral designer Fricker champions seasonal
-                  British flowers and UK producers in her beautiful and
-                  sustainable creations. This season, we worked with Flora to
-                  style Sunspel stores for Christmas, for which she produced
-                  eye-catching sustainably sourced wreaths.
+                  London-based floral designer .
                 </p>
                 <p className={styles.blogParagraph}>
                   Delaware limited liability company (Infinium Battery) collects
