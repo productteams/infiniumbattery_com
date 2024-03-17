@@ -151,9 +151,9 @@ const ProductPage = (props) => {
           <Split
             image={'/cloth.png'}
             alt={'attribute description'}
-            title={'Sustainability'}
+            title={'Quality'}
             description={
-              'We design our products to look good and to be used on a daily basis. And our aim is to inspire people to live with few timeless objects made to last. This is why quality over quantity is a cornerstone of our ethos and we have no interest in trends or seasonal collections.'
+              'We design our products to look last. Our batteries are timeless objects made to last. This is why quality over quantity is a cornerstone of our ethos..'
             }
             ctaText={'learn more'}
             cta={() => navigate('/blog')}
