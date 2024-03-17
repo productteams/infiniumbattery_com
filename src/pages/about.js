@@ -48,16 +48,15 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Founded in 1860, Sydney is an innovative British brand with a
-              contemporary edge. We make timeless everyday luxury clothing.
+              Founded in 1860, INFINIUM is an innovative global brand with a
+              contemporary edge. We make timeless lithium batteries.
             </p>
             <br />
             <br />
             <p>
-              We created some of the world's first T-shirts and spent decades
-              perfecting the feel of the cotton. Today we are the only brand
-              that makes T-shirts in its own factory in the UK. And we do this
-              in the same factory we have occupied since 1937.
+              We created some of the world's first LFP batteries and spent decades
+              perfecting the battery management systems that power our batteries.Today we are the only brand
+              that integrates its battery management systems with its own customers.
             </p>
           </div>
         </Container>
@@ -84,15 +83,15 @@ const AboutPage = (props) => {
               </p>
               <ol>
                 <li>Be an ecowear</li>
-                <li>Sophisticated and not mass-produced</li>
-                <li>Only natural materials</li>
+                <li>Sophisticated and every battery tested. </li>
+                <li>Connect in series up to 800 batteries</li>
               </ol>
               <img alt={'founder'} src={'/about2.png'}></img>
             </div>
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
               <p>
-                Our founder, Thomas Hill, had both an eye for quality and a
+                Our founder, Bruno Rocca, had both an eye for quality and a
                 desire to innovate. As well as using the finest fibres such as
                 Sea Island cotton, cashmere and silk, he invented his own
                 fabrics. Sunspel continues this commitment to innovation today
