@@ -48,7 +48,7 @@ const Policy = (props) => {
           into a legally binding agreement and to abide by this Privacy Policy.{' '}
         </p>
         <p>
-          The Upside collects, uses and discloses information regarding users
+          INFINIUM collects, uses and discloses information regarding users
           aged 13-18 in the same manner as it does for adults.{' '}
         </p>
       </div>
