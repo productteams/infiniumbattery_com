@@ -38,7 +38,7 @@ const ShopV2Page = (props) => {
           maxWidth={'650px'}
           name={`Woman`}
           subtitle={
-            'Look styles and easy all-in-ones, our edit covers every mood.'
+            'batteries for every spot on you boat'
           }
         />
         <Container size={'large'} spacing={'min'}>
