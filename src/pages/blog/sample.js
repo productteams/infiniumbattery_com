@@ -12,7 +12,7 @@ const SamplePage = (props) => {
         <Container>
           <div className={styles.blogContainer}>
             <Blog
-              category={'design'}
+              category={'battery design'}
               title={'Introducing : INFINIUM'}
               image={'/blogFeatured.png'}
               alt={''}
