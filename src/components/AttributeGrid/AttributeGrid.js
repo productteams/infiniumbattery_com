@@ -14,8 +14,8 @@ const AttributeGrid = (props) => {
       />
       <Attribute
         icon={'cycle'}
-        title={'returns'}
-        subtitle={'Return Not Allowed'}
+        title={'5 YEAR WARRANTY'}
+        subtitle={'Increases to 8 years with Certified Installer'}
       />
       <Attribute
         icon={'creditcard'}
