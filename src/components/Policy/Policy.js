@@ -5,12 +5,12 @@ const Policy = (props) => {
   return (
     <div className={styles.root}>
       <div className={styles.section}>
-        <h3>1. Lorem Ipsum</h3>
+        <h3>1. INFINIUMbattery Policy</h3>
         <p>
-          Delaware limited liability company (The Sydney) collects personal
+          Delaware limited liability company INFINIUMbattery collects personal
           information that you voluntarily provide when applying or registering
-          for an account with The Upside or making a purchase on The Upside
-          website; www.theupside.com (the Website).
+          for an account with INFINIUM or making a purchase on The INFINIUM
+          website; www.INFINIUMbattery.com (the Website).
         </p>
         <p>
           This Privacy Policy (Privacy Policy) outlines how your information is
@@ -27,7 +27,7 @@ const Policy = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h3>2. Lorem Ipsum</h3>
+        <h3>2. Services Policy</h3>
         <p>
           Our Services, including but not limited to the registration of an
           account with us or placing of an order, is not intended to be used by
@@ -54,7 +54,7 @@ const Policy = (props) => {
       </div>
 
       <div className={styles.section}>
-        <h3>3. Lorem Ipsum</h3>
+        <h3>3. SERVICES</h3>
         <p>
           You must only use our Services in accordance with this Privacy Policy
           and any applicable law or regulations. You agree to refrain from
@@ -70,9 +70,9 @@ const Policy = (props) => {
         <p>
           (c) pretend to be anyone, or any entity, you are not, you will not
           impersonate or misrepresent yourself as another person (including
-          celebrities), entity, a The Upside employee, or a civic or government
+          celebrities), entity, an INFINIUM employee, or a civic or government
           leader, or otherwise misrepresent your affiliation with a person or
-          entity. The Upside reserves the right to reject or block any user
+          entity. The INFINIUMbattery reserves the right to reject or block any user
           which could be deemed to be an impersonation or misrepresentation of
           your identity, or a misappropriation of another person's name or
           identity;{' '}
@@ -85,13 +85,13 @@ const Policy = (props) => {
         </p>
         <p>
           (e) use, distribute, reproduce or commercialize any content from the
-          Website or The Upside service except as permitted by this Policy, by
+          Website or The INFINIUM service except as permitted by this Policy, by
           law, and with prior written agreement from The Upside;{' '}
         </p>
         <p>
           (f) transmit any unsolicited advertising, promotional material or
           other forms of solicitation in connection with your use of the Service
-          without the prior written agreement of The Upside;{' '}
+          without the prior written agreement of INFINIUM battery;{' '}
         </p>
         <p>
           (g) forge any TCP-IP packet header or any part of the header
