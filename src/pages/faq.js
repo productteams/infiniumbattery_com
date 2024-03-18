@@ -83,7 +83,7 @@ const FaqPage = (props) => {
               <p>
                 For deliveries to the UK, we will bill you in Pounds Sterling
                 (£), to the European Union in Euros (€), to the US in Dollars
-                ($), and to the Rest of World in Pounds Sterling (£).
+                ($), and to the Rest of World in Dollars($).
               </p>
               <p>
                 Standard rate VAT is included in all orders to the UK and
