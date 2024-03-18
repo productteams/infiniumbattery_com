@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'The Most Reliable LFP Batter'}
-        subtitle={'Discover WhyInfinium'}
+        title={'The Most Reliable LFP Batteries'}
+        subtitle={'Learn Why Infinium'}
         ctaText={'learn more'}
         ctaAction={goToShop}
       />
