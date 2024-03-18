@@ -29,9 +29,9 @@ const Header = (prop) => {
   const searchRef = createRef();
   const bannerMessage = 'We ship batteries worldwide';
   const searchSuggestions = [
-    'Van/RV Overland',
-    'Electric Outboards',
-    'Telecom Towers',
+    'Oversize sweaters',
+    'Lama Pajamas',
+    'Candles Cinnamon',
   ];
 
   const handleHover = (navObject) => {
