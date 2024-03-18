@@ -1,7 +1,7 @@
 [
     {
-        "title": "The new standard of Lithium Batteries",
-        "category": "design",
+        "title": "The New standard of Lithium Batteries",
+        "category": "battery design",
         "alt": "blog new standard of batteries",
         "image": "/blogs/blog1.png",
         "link": "/blog/no1",
@@ -9,55 +9,55 @@
     },
     {
         "title": "Energy Storage Systems.",
-        "category": "collaboration",
-        "alt": "blog new standard of closing",
+        "category": "applications",
+        "alt": "Energy Storage Systems",
         "image": "/blogs/blog2.png",
         "link": "/blog/no2",
-        "excerpt": "London-based seasonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+        "excerpt": "Energy Storage Systems."
     },
     {
         "title": "Van Life Battery Use",
-        "category": "design",
-        "alt": "blog new standard of closing",
+        "category": "applications",
+        "alt": "Van Life Battery Use",
         "image": "/blogs/blog3.png",
         "link": "/blog/no3",
-        "excerpt": "London-basedsonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+        "excerpt": "Van Life Battery Use."
     },
     {
         "title": "Supporting Wind Power",
         "category": "news",
-        "alt": "blog new standard of closing",
+        "alt": "Supporting Wind Power",
         "image": "/blogs/blog3.png",
         "link": "/blog/no4",
-        "excerpt": "London-based floral designer Flora Fricker champions seasonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+        "excerpt": "Supporting Wind Power."
     },
     {
         "title": "Watercraft Electric Propulsion",
         "category": "design",
-        "alt": "blog new standard of closing",
+        "alt": "Watercraft Electric Propulsion",
         "image": "/blogs/blog2.png",
         "link": "/blog/no5",
-        "excerpt": "Loproducers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+        "excerpt": "Watercraft Electric Propulsion."
     },
     {
         "title": "Extending the Battery life of of a LFP battery",
-        "category": "design",
-        "alt": "blog new standard of closing",
+        "category": "applications",
+        "alt": "blog Extending the Battery life of of a LFP battery",
         "image": "/blogs/blog1.png",
         "link": "/blog/no6",
-        "excerpt": "London-based floral tish flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+        "excerpt": "Extending the Battery life of of a LFP battery"
     },
     {
-        "title": "It is a long established fact that a reader by the readable",
-        "category": "design",
-        "alt": "blog new standard of closing",
+        "title": "Narrow Boats using LFP",
+        "category": "applications",
+        "alt": "blog Narrow Boats using LFP",
         "image": "/blogs/blog2.png",
-        "link": "/blog/sample",
-        "excerpt": "London-based floral designer Flora Fricker champions seasonal British flowers and UK producers in her beautiful and sustainable creations. This season, we worked with Flora to style Sunspel stores for Christmas, for which she produced eye-catching sustainably sourced wreaths."
+        "link": "/blog/no7",
+        "excerpt": "Narrow Boats using LFP."
     },
     {
         "title": "It is a long et a reader by the readable t is a long et a reader by the rea",
-        "category": "design",
+        "category": "applications",
         "alt": "blog new standard of closing",
         "image": "/blogs/blog2.png",
         "link": "/blog/sample",
