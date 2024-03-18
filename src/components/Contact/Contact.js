@@ -31,21 +31,21 @@ const Contact = (props) => {
         <h4>Send Us A Message</h4>
         <p>
           Our Customer Service team are here for all enquiries Monday to Friday,
-          9am - 5pm AEDT (Australian Eastern Daylight Savings Time).
+          9am - 5pm CET (Central European Daylight Savings Time).
         </p>
         <p>We look forward to hearing from you.</p>
       </div>
 
       <div className={styles.section}>
-        <h4>Phone</h4>
-        <p>+1 424 280 4971</p>
-        <p>Monday to Friday - 9am - 5pm AEDT</p>
+        <h4>US Phone Support</h4>
+        <p>+1 231-634-6486 (231)-NFINIUM</p>
+        <p>Monday to Friday - 9am - 5pm PST</p>
       </div>
 
       <div className={styles.section}>
         <h4>Email</h4>
         <p>
-          You can email our Customer Service team at customerservice@example.com
+          You can email our Customer Service team at customerservice@infiniumbattery.com
           or via the contact form below:
         </p>
       </div>
