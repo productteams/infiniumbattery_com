@@ -35,7 +35,7 @@
           "link": "/blog"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Legal Policies",
           "link": "/support#policy"
         }
       ]
@@ -52,11 +52,11 @@
           "link": "/support#contact"
         },
         {
-          "text": "Shipping & Returns",
+          "text": "Shipping & Returns & Warranty",
           "link": "/support#returns"
         },
         {
-          "text": "How to use this theme",
+          "text": "Downloads / Manuals ",
           "link": "/how-to-use"
         }
       ]
@@ -83,6 +83,10 @@
               "menuLink": "/shop"
             },
             {
+              "menuLabel": "Fishing / Trolling ",
+              "menuLink": "/shop"
+            },
+            {
               "menuLabel": "BowThrusters & Windlass",
               "menuLink": "/shop"
             }
@@ -96,19 +100,19 @@
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "OFF-GRID SYSTEMS",
+              "menuLabel": "VanLife/Underseat",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "GRID-TIED TINY HOUSES",
+              "menuLabel": "Tiny Houses / Houseboats",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "GOLF CART SYSTEMS",
+              "menuLabel": "Land Vehicle Propulsion",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "REMOTE MASTS/ SECURITY",
+              "menuLabel": "Remote Masts / Security Sytems",
               "menuLink": "/shop"
             }
           ]
@@ -117,11 +121,11 @@
           "categoryLabel": "accessories",
           "submenu": [
             {
-              "menuLabel": "Chargers",
+              "menuLabel": "Lithium Chargers",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "Connectors",
+              "menuLabel": "System Connections",
               "menuLink": "/shop"
             }
           ]
