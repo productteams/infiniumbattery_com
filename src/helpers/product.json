@@ -15,39 +15,39 @@
         "wishlist": true,
         "tags": ["sample"],
         "gallery": [
-            {"image": "/products/pdp1.jpeg", "alt": "pdp description 1"},
-            {"image": "/products/pdp2.jpeg", "alt": "pdp description 2"},
-            {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
-            {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
+            {"image": "/products/pdp1.png", "alt": "pdp description 1"},
+            {"image": "/products/pdp2.png", "alt": "pdp description 2"},
+            {"image": "/products/pdp3.png", "alt": "pdp description 3"},
+            {"image": "/products/pdp4.png", "alt": "pdp description 4"}
         ],
-        "description": "This is a LFP Power Battery, Once knitted, the garment is washed in Scottish spring water to make it beautifully soft."
+        "description": "This is a LFP Power Battery, ."
     },
     {
         "name": "Classic T-Shirt",
         "price": 1175,
         "alt": "classic t-shirt 1",
-        "image": "/products/shirt1.jpg",
+        "image": "/products/shirt1.png",
         "tags": ["connectors", "men"]
     },
     {
         "name": "Classic T-Shirt",
         "price": 1275,
         "alt": "classic t-shirt 2",
-        "image": "/products/shirt2.jpg",
+        "image": "/products/shirt2.png",
         "tags": ["shirt", "men"]
     },
     {
         "name": "Classic T-Shirt",
         "price": 1775,
         "alt": "classic t-shirt 3",
-        "image": "/products/shirt3.jpg",
+        "image": "/products/shirt3.png",
         "tags": ["shirt", "men"]
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
         "price": 2113.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
+        "image": "/products/woman1.png",
         "tags": ["woman"],
         "meta": "+ 2 colors"
     },
@@ -55,7 +55,7 @@
         "name": "Relaxed-fit graphic T-shirt",
         "price": 2115.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
+        "image": "/products/woman2.png",
         "tags": ["woman"]
     },    
     {
@@ -109,7 +109,7 @@
         "name": "Relaxed-fit graphic T-shirt",
         "price": 1121,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman1.jpeg",
+        "image": "/products/woman1.png",
         "tags": ["woman"]
     }
   ]
