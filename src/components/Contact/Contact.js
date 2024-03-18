@@ -30,7 +30,7 @@ const Contact = (props) => {
       <div className={styles.section}>
         <h4>Send Us A Message</h4>
         <p>
-          Our Customer Service team are here for all enquiries Monday to Friday,
+          Our Customer Service team is here for all enquiries Monday to Friday,
           9am - 5pm CET (Central European Daylight Savings Time).
         </p>
         <p>We look forward to hearing from you.</p>
