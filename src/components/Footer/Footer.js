@@ -69,9 +69,9 @@ const Footer = (prop) => {
             })}
             <div className={styles.newsLetter}>
               <div className={styles.newsLetterContent}>
-                <span className={styles.linkTitle}>Newsletter</span>
+                <span className={styles.linkTitle}>Monthly Newsletter</span>
                 <p className={styles.promoMessage}>
-                  Get 15% off your first purchase!
+                  Get an extra 3 Years Enhanced Warranty from a Certified Installer!
                 </p>
                 <form
                   className={styles.newsLetterForm}
