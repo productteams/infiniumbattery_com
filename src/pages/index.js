@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Essentials for Electric Propulsion'}
-        subtitle={'Discover the Powerful Infinium'}
+        title={'The Most Reliable LFP Batter'}
+        subtitle={'Discover WhyInfinium'}
         ctaText={'learn more'}
         ctaAction={goToShop}
       />
@@ -43,8 +43,8 @@ const IndexPage = () => {
           <span className={styles.gold}>INFINIUM.</span>
         </p>
         <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
+          battery design by <span className={styles.gold}>IONWAT</span> and{' '}
+          <span className={styles.gold}>global battery design</span>
         </p>
       </div>
 
@@ -78,8 +78,8 @@ const IndexPage = () => {
             altImage={'highlight image'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This batteries are made using only the very best LFP lithium cells.`}
+            title={'Only the Finest Lithium'}
+            description={`batteries made using only the very best LFP lithium cells.`}
             textLink={'shop now'}
             link={'/shop'}
           />
@@ -100,14 +100,14 @@ const IndexPage = () => {
         bgColor={'var(--standard-light-grey)'}
         title={'about INFINIUM'}
         quote={
-          '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
+          '“We believe in two things: the pursuit of quality in everything we do, and listening to the customer. Everything else should take care of itself.”'
         }
       />
 
       {/* Blog Grid */}
       <div className={styles.blogsContainer}>
         <Container size={'large'}>
-          <Title name={'Journal'} subtitle={'Notes on Batteries and Power'} />
+          <Title name={'Journal'} subtitle={'Lithium Use-Cases and Sharing Technology'} />
           <BlogPreviewGrid data={blogData} />
         </Container>
       </div>
@@ -118,7 +118,7 @@ const IndexPage = () => {
           image={'/banner3.png'}
           title={'We are Sustainable'}
           subtitle={
-            'From caring for our land to supporting our people, discover the steps we’re taking to do more for the world around us.'
+            'We are committed to Our Oceans, discover the steps we’re taking to do more for the world around us.'
           }
           ctaText={'read more'}
           maxWidth={'660px'}
