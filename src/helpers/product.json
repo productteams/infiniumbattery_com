@@ -62,7 +62,7 @@
         "name": "Relaxed-fit graphic T-shirt",
         "price": 2113.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
+        "image": "/products/woman3.png",
         "tags": ["woman"],
         "meta": "+ 2 colors"
     },
@@ -70,14 +70,14 @@
         "name": "Relaxed-fit graphic T-shirt",
         "price": 2115.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman4.jpeg",
+        "image": "/products/woman4.png",
         "tags": ["woman"]
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
         "price": 2115.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman5.jpeg",
+        "image": "/products/woman5.png",
         "tags": ["woman"],
         "originalPrice": 31.50
 
@@ -86,21 +86,21 @@
         "name": "Relaxed-fit graphic T-shirt",
         "price": 1121,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman6.jpeg",
+        "image": "/products/woman6.png",
         "tags": ["woman"]
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
         "price": 1115.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman3.jpeg",
+        "image": "/products/woman3.png",
         "tags": ["woman"]
     },
     {
         "name": "Relaxed-fit graphic T-shirt",
         "price": 1115.90,
         "alt": "relaxed t shirt woman",
-        "image": "/products/woman2.jpeg",
+        "image": "/products/woman2.png",
         "tags": ["woman"],
         "originalPrice": 31.50
 
