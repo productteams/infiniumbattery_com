@@ -4,6 +4,7 @@
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
     { "value": "EUR", "label": "Germany (EUR €)" },
+    { "value": "HKD", "label": "Hong Kong (HKD $)" }
   ],
   "languageList": [
     { "value": "english", "label": "English" },
@@ -11,9 +12,9 @@
     { "value": "french", "label": "French" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/InfiniumBattery/",
+    "facebook": "https://www.facebook.com/MatterDesign/",
     "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/InfiniumBattery",
+    "twitter": "https://twitter.com/hellomatter",
     "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
   },
   "paymentOptions": {
@@ -30,7 +31,7 @@
           "link": "/about"
         },
         {
-          "text": "Postings",
+          "text": "Journal",
           "link": "/blog"
         },
         {
@@ -55,7 +56,7 @@
           "link": "/support#returns"
         },
         {
-          "text": "Custom Batteries",
+          "text": "How to use this theme",
           "link": "/how-to-use"
         }
       ]
@@ -128,7 +129,7 @@
       ]
     },
     {
-      "menuLabel": "postings",
+      "menuLabel": "journal",
       "menuLink": "/blog",
       "category": null
     },
