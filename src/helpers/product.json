@@ -3,13 +3,13 @@
         "productCode": "MJUM8066-GYDZ",
         "name": "LFP 48V 3400Wh 500Amp ",
         "vendor": "INFINIUM",
-        "price": 75,
+        "price": 2075,
         "alt": "LFP 48V 3400Wh 500Amp",
         "image": "/products/pdp1.jpeg",
         "colorOptions": [
-            {"color": "#000000", "title": "1"},
-            {"color": "#4D34AE", "title": "2Pale Purple"},
-            {"color": "#488266", "title": "3Green Moss"}
+            {"color": "#000000", "title": "M8 Connector"},
+            {"color": "#4D34AE", "title": "M10 "},
+            {"color": "#488266", "title": "QuickConnect"}
         ],
         "sizeOptions": ["xs", "s", "m", "l", "xl"],
         "wishlist": true,
