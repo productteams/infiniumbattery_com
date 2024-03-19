@@ -32,20 +32,17 @@ const HowToUsePage = (props) => {
         </div>
         <Container size={'large'} spacing={'min'}>
           <div className={styles.content} style={{ paddingTop: '80px' }}>
-            <h3>Built By Matter.</h3>
+            <h3>Downloads for INFINIUM batteries By .</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
-                This theme is proudly brought to you by the team at{' '}
-                <Button target={true} href="https://matterdesign.com.au/">
-                  Matter Design & Digital
+                We take great pride in providing the technical details of our products prior to purchase and the instruction manuals post purchase that help our users best utilize out products.{' '}
+                <Button target={true} href="https://ionwat.fr/">
+                  INFINIUM batteries
                 </Button>{' '}
-                (Matter.).
+                (INFINIUM.).
               </p>
               <p>
-                The Sydney theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack archtitecture. This theme is free to use
-                through Netlify’s GitHub account, and can be used with any
-                ecommerce platform that support a headless architecture.
+                The Product Specifications can be found as a QR code for every product. Just scan the QR code and it will take you directly to the product specs for that product..
               </p>
               <p>
                 Matter. has pre-built connections to microservices available
@@ -60,33 +57,23 @@ const HowToUsePage = (props) => {
                 Read more about JAMM.™
               </Button>
               <img
-                alt={'JAMM Detail'}
+                alt={'Ionwat Detail'}
                 src={'/how-to-use/jamm-sydney-1upd@2x.png'}
                 style={{ display: 'block', height: 'auto' }}
               />
             </div>
-            <h3>Best of Breed Tools</h3>
+            <h3>Best of Breed Testing</h3>
             <div id={'#tools'} ref={toolsRef}>
               <p>
-                Headless architecture enables Composable Commerce. What this
-                means is that you can ‘compose’ a suite of best of breed tools
-                together to create an agile ecommerce system. This approach is
-                the opposite end of the spectrum from a traditional ‘Monolithic’
-                architecture where all the functionality and data comes from one
-                source.
+                We only use the best battery testing equipment and provide the data to our customers so they have full understanding of the technical details. .
               </p>
               <p>
-                Why go with Composable Commerce? History has shown, technology
-                innovation comes from new specialised solutions that find better
-                ways to do things. By creating an architecture that taps into
-                this innovation, you are getting a system that is innovating
-                faster than monolithic solutions giving you a competitive
-                advantage.
+                We continually product test results and publish them. Please interact with us to learn more about our methods and our SOP processes..
               </p>
               <p>
-                Matter. has been innovating since 2003, and we have aligned with
+                INFINIUM. has been innovating since 2003, and we have aligned with
                 companies that do it best. The following technologies are either
-                currently available or are on our roadmap for JAMM.™.
+                currently available or are on our roadmap for INFINIUM.™.
               </p>
 
               <strong>Ecommerce:</strong>
